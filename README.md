@@ -1,6 +1,4 @@
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Cześć!">
-
 <p align="center"> 
   Hej! :wave:
 </p>
@@ -13,7 +11,7 @@ Jestem mevyo, zajmuje się developingiem w lua na platformie FiveM polegającej 
 
 - Programowanie.
 - Gry.
-- KOCHAM DRILL
+- Kocham muzykę, w szczególności amerykański rap.
 
 ## Kontakt/sociale
 
