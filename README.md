@@ -1,10 +1,8 @@
-# Hey there :wave:
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Cześć!">
 
 <p align="center"> 
-  Liczba odwiedzających profil<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  Hej! :wave:
 </p>
 
 ## O mnie
