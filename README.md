@@ -1,43 +1,25 @@
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Cześć!">
 
 <p align="center"> 
-  Visitor count<br>
+  Liczba odwiedzających profil<br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
-## About me
+## O mnie
 
-I'm Sagar Viradiya. A Google Developer Expert on Android. An Android Engineer at [DeliveryHero](https://www.deliveryhero.com/) and also Co-organizer of [GDG MAD](https://gdgmad.com/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
+Jestem mevyo, zajmuje się developingiem w lua na platformie FiveM polegającej na trybie RolePlay w grze GTA5. Aktualnie jest to jedyny język w którym potrafie pisać, chociaż w planach mam nauczenie się html + css, java. Poza tym, mam 16 lat i jestem zwykłym głupolem.
 
-I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
+## Hobby
 
+- Programowanie.
+- Gry.
+- KOCHAM DRILL
 
-## Things I am passionate about
+## Kontakt/sociale
 
-- Android :robot:
-- Open source :octocat:
-
-## Get in touch :coffee:
-
-- Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/viradiya_sagar).
-- Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@sagarviradiya).
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/sagarviradiya)
-- And of course GitHub you're already on (Recursion).
-
-
-<!--
-**sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Discord: mevyo#7777
+- Twitter: @mevy00
+- Twitch: mevyo
+- Instagram: mevyo420
